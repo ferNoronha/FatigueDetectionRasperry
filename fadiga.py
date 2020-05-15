@@ -8,6 +8,7 @@ import time
 import dlib
 import cv2
 
+#reference: https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
 def euclidean_dist(ptA, ptB):
 	# compute and return the euclidean distance between the two
